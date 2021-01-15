@@ -1,0 +1,6 @@
+framework module Pods_TopItunesTests {
+  umbrella header "Pods-TopItunesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
